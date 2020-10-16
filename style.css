@@ -1,0 +1,39 @@
+body {
+	background-color: #D3D3D3;
+	margin: 0;
+}
+
+header {
+	background-color: white;
+	padding: 10px;
+}
+
+header h1 {
+	margin: 0;
+}
+
+div.post {
+	background-color: white;
+	margin-top: 50px;
+}
+
+div.container {
+	width: 600px;
+	margin: auto;
+}
+
+div.post img {
+	width: 600px;
+	height: 400px;
+}
+
+div.post h2, div.post p{
+	padding: 5px;
+	margin: 0;
+}
+
+div.post span {
+	float: right;
+	margin-right: 5px;
+	color: grey;
+}
